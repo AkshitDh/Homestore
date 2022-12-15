@@ -8,3 +8,9 @@
 .motto {
     width: 100%;
 }
+
+.motto-img {
+    padding: 2rem 4rem;
+    width: 100%;
+    object-fit: cover;
+}
